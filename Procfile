@@ -1,1 +1,1 @@
-web ruby --path css style:style
+web jekyll --path srv style:style
