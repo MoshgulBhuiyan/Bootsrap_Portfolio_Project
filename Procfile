@@ -1,1 +1,1 @@
-web ruby --jeykllpath css style:style
+web ruby index:index
